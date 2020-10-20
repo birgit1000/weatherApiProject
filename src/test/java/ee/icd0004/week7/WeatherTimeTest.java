@@ -14,7 +14,7 @@ public class WeatherTimeTest {
 
         WeatherReport weatherReport = weatherTime.getWeatherReportForCity(city);
 
-        assertThat(weatherReport.getMainDetails().getCity()).isBlank();
+        assertThat(weatherReport.getMainDetails().getCity()).isNotNull();
     }
 
     @Test
