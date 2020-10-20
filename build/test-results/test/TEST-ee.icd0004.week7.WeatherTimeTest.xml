@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ee.icd0004.week7.WeatherTimeTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-10-20T23:13:37" hostname="LAPTOP-LS4K6HHS" time="3.08">
+<testsuite name="ee.icd0004.week7.WeatherTimeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-20T23:51:24" hostname="LAPTOP-LS4K6HHS" time="1.113">
   <properties/>
-  <testcase name="shouldHaveMainDetailsBlockInWeatherReport" classname="ee.icd0004.week7.WeatherTimeTest" time="2.663"/>
-  <testcase name="shouldHaveCityNameInWeatherReport" classname="ee.icd0004.week7.WeatherTimeTest" time="0.414"/>
+  <testcase name="shouldHaveMainDetailsBlockInWeatherReport" classname="ee.icd0004.week7.WeatherTimeTest" time="1.113"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

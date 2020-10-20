@@ -13,7 +13,7 @@ import static com.sun.jersey.api.json.JSONConfiguration.FEATURE_POJO_MAPPING;
 
 public class WeatherApi {
     private static final String BASE_URL = "http://api.openweathermap.org/data/2.5";
-    private static final String API_KEY = "838a8c10b8a6f02a94b2b7dd1eaa0769";
+    private static final String API_KEY = "";
 
 
     public CurrentWeatherData getCurrentWeatherData(String city) {
